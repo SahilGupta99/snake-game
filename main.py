@@ -9,7 +9,7 @@ BODY_PARTS = 3
 SNAKE_COLOR = "#00FF00"
 FOOD_COLOR = "#FF0000"
 BACKGROUND_COLOR = "#000000"
-
+#this is my changes
 class Snake:
     def __init__(self):
         self.body_size = BODY_PARTS
